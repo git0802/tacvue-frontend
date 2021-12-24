@@ -1,0 +1,9 @@
+export const HQ = "hq";
+export const ENTERPORTAL = "enterportal";
+export const MARKETPLACE = "marketplace";
+export const CONTROLCENTER = "control-center";
+export const COMMUNICATIONS = "communications";
+export const CREATORLAB = "creator-lab";
+export const CREATE_CARD = "create-card";
+export const COLLECTIBLES = "collectibles";
+export const MINTER = "minter";
